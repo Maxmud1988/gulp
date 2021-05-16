@@ -1,0 +1,15 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "gulp start",
+  "scripts": {},
+  "keywords": [
+    "gulp",
+    "js",
+    "sass",
+    "pug",
+    "linters"
+  ],
+  "author": "m.xudoyberdiev88@gmail.com",
+  "license": "WTFL"
+}
